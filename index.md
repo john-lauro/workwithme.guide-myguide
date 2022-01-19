@@ -1,8 +1,8 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: John Lauro
+full_name: John Lauro
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
